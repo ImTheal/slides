@@ -47,10 +47,12 @@ footer: '**Théo Moussaoui - 2023**'
     </style>
 <!-- paginate: true -->
 <!-- color: #1b3044 -->
-![bg left:33% class:avatar](HSK07642.jpg)
 
 
-# **Slide**
+
+# **Product led : Comprenons ce que c'est**
+<br><br><br><br><br><br>
+
 **Théo Moussaoui** <img class="avatar" src="./ytrfd.jpg"/>
 
 
@@ -243,8 +245,60 @@ Mon produit fonctionne-t-il sans bugs ?
 ---
 
 # **Livrer des produits différemment**
-Mon produit fonctionne-t-il sans bugs ?
 
-    Nombre de bugs
-    Rapport Bug/usage
-    autres...
+Aujourd'hui, nous livrons beaucoup plus souvent, **il faut en profiter !**
+
+## Attention !
+### Fonctionnalité Livrée =/= Fonctionnalité apportant de la ** !valeur**
+
+---
+
+# **Communiquer sur les nouvelles fonctionnalités**
+
+Donner de la documentation n'est pas suffisant, 
+
+Il faut éduquer les utilisateurs !   
+
+- **Pop ups**
+- **Bouton info**
+- **Publication réseaux sociaux**
+
+>Être clair sur les utilisateurs **nécessitant** d'être notifiés et sur **l'action souhaitée**
+
+
+---
+
+# **Mesurer l'adoption**
+
+Il ne suffit pas de voir si une fonctionnalité est utilisée. 
+
+Ces éléments sont intéressants :
+
+- **Ampleur d'adoption**
+- **Temps avant l'adoption**
+- **Durée de l'adoption**
+
+
+---
+
+# **Feedbacks !**
+
+Les feedbacks valent de l'OR, il est judicieux :
+- D'écouter les utilisateurs
+- D'investir dans les moyens de récolter les feedbacks à grande échelle
+- Clore la boucle avec les parties prenantes 
+
+---
+
+# **Règles de feedback**
+
+### Comment soumettre un feedback, à quelle fréquence ils sont inspectés, et comment communiquer en retour aux utilisateurs
+
+
+---
+
+# **Product Operations (Product OPS)**
+
+C'est à l'intersection du produit, de l'ingénierie et des customer success
+
+
